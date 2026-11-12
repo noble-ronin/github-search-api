@@ -72,4 +72,4 @@ Search results are capped at **1,000 total**, regardless of `per_page`/`page` �
 
 Running one query by hand with curl is easy. Running hundreds — pulling stars/forks/topics/license across thousands of repos, or tracking issues across a whole ecosystem — is what the [GitHub Search Scraper](https://apify.com/ponderable_hydrometer/github-search-scraper) actor on Apify does: normalized rows, rate-limit backoff built in, BYO token for the 5,000/h tier.
 
-📄 The story that led here — 22 public APIs, one locked-down sandbox, and the one that answered with the most specific "no" of all: **[I Pointed My Dev Sandbox At 22 Public APIs. Only Three Answered Cleanly.](https://dev.to/ronin13/i-pointed-my-dev-sandbox-at-22-public-apis-only-three-answered-cleanly)**
+📄 The story that led here — 22 public APIs, one locked-down sandbox, and the one that answered with the most specific "no" of all: **[I Pointed My Dev Sandbox At 22 Public APIs. Only Three Answered Cleanly.](https://dev.to/ronin13/i-pointed-my-dev-sandbox-at-22-public-apis-only-three-answered-cleanly-32jd)**
